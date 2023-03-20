@@ -31,8 +31,8 @@
   
   ## SNS & Mail
 
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://fairycode.tistory.com/)](https://hoongraphy.tistory.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/noeyaes/)](https://www.instagram.com/ho.o_ny/) 
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://fairycode.tistory.com/)](https://fairycode.tistory.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/noeyaes/)](https://www.instagram.com/noeyaes/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qheosksek106@gmail.com)](mailto:qheosksek106@gmail.com)
 
 
