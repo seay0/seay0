@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,&height=200&section=header&text=Fairycode's%20Github!&fontSize=60&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,&height=200&section=header&text=Seay0's%20Github!&fontSize=60&animation=blink)
 
 <!-- ## <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Hello World !  -->
 </div>
