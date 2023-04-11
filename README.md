@@ -12,7 +12,7 @@
 </br>
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seay0&show_icons=true&theme=dracula&hide=c%23,powershell,shell)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seay0&show_icons=true&theme=dracula&hide=c%23,powershell,shell,html)](https://github.com/anuraghazra/github-readme-stats)  
   </br>
 
 ![Fairycode's GitHub stats](https://github-readme-stats.vercel.app/api?username=seay0&show_icons=true&theme=dracula)
